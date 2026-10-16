@@ -1,0 +1,10 @@
+{
+  "name": "Raghav Dental Care Centre",
+  "short_name": "Raghav Dental",
+  "description": "Specialist dental and maxillofacial care in Rajajinagar, Bengaluru.",
+  "start_url": "/raghav-dental-demo/",
+  "display": "browser",
+  "background_color": "#FAF8F4",
+  "theme_color": "#172C4B",
+  "icons": [{ "src": "/raghav-dental-demo/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }]
+}

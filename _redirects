@@ -1,0 +1,3 @@
+# Cloudflare Pages / Netlify redirects. Keep one-to-one; never catch-all to the homepage.
+# /review → the Google "write a review" link (enable once business.reviewUrl is confirmed; keep the target in sync):
+# /review  https://g.page/r/XXXX/review  302
